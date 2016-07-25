@@ -1,0 +1,27 @@
+html{font-family: 'Indie Flower', cursive;
+background-image: url("photos/grass.jpg");
+ 	background-repeat: no-repeat;
+ 	background-size: 100%;
+}
+
+html{height: 100%;
+}
+nav{
+	text-align: center;
+	padding:25px;
+	position: absolute;
+	list-style:none;
+	}
+
+	li{
+	display:inline;
+	margin:20px;
+	margin-left:195px;
+	font: yellow;
+	border-radius: 5px;
+	padding:3px; 
+	
+}	 
+h1{
+	text-align: center;
+}
